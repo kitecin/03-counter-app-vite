@@ -1,0 +1,9 @@
+{
+    "title": {
+        "message": "Hola mundo"
+      },
+    "paragraph": {
+        "message": "Soy un parrafo",
+        "description": "texto en la etiqueta p"
+      }
+}
